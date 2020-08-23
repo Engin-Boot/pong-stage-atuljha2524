@@ -13,7 +13,7 @@ getY() = position of ball on y-axis.
 
 ## Acceptance Criteria
 
-### Scenario: when ball touches a safe boundary.
+### Scenario: when ball touches a safe boundary
 
   Given - The ball is moving.
 
@@ -21,7 +21,7 @@ getY() = position of ball on y-axis.
 
   Then - ball will bounce.
 
-### Scenario: when ball touches unsafe boundary.
+### Scenario: when ball touches unsafe boundary
 
   Given - The ball is moving
   
