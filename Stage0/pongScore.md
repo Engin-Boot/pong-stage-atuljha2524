@@ -7,12 +7,11 @@ incScore() = increases the score of the player.
 
 ## Acceptance Criteria
 
-### Scenario: -describe-a-scenario-of-this-module
+### Scenario: when ball touches unsafe boundary.
 
-  Given -give-initial-values-and-conditions
+  Given - The ball is moving
+  
+  When - Ball touches the unsafe boundary of left side.
+  
+  Then - Player on the right side gets one point.
 
-  When -event-happens
-
-  Then -module-does-this
-
-### -add-scenario-if-needed
