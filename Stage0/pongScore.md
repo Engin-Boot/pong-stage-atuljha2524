@@ -1,8 +1,9 @@
-# -give-this-module-a-name
+# pongScore
 
 ## Feature
 
-What part of the game does this module deliver?
+getScore() = returns the score of the player.
+incScore() = increases the score of the player.
 
 ## Acceptance Criteria
 
