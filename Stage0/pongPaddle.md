@@ -10,7 +10,7 @@ getPosition() = gives the position of paddle.
 
 ## Acceptance Criteria
 
-### Scenario: ball hits paddle or not.
+### Scenario: ball hits paddle or not
 
   Given - The ball is moving.
 
