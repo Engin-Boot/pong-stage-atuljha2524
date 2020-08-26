@@ -2,7 +2,7 @@
 
 ## Startup Sequence
 
-The main function will instantiate one object of ball two instances of padddle
+The main function will instantiate one instance of ball two instances of paddle
 and two instances of score for each player
 
 ## Movement Initiation
