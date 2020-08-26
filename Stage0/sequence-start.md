@@ -12,5 +12,5 @@ ball will bounce from the horizontal boundary and paddle.
 
 ## One score
 
-ball touches vertical boundary of left side 
+ball touches vertical boundary of left side
 player at the right side will get one point and vice versa.
