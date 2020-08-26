@@ -1,15 +1,15 @@
-# pongGame
+# pong Game
 
 ## Feature
 
-initx = initial position of ball in x-axis
-inity = initial position of ball in y-axis
-xSpeed = speed of ball in x axis
-ySpeed = speed of ball in y axis
-move() = moves the ball
-bounce() = ball bounces
-getX() = position of ball on x-axis
-getY() = position of ball on y-axis
+initial position of ball in x-axis
+initial position of ball in y-axis
+speed of ball in x axis
+speed of ball in y axis
+moves the ball
+ball bounces
+position of ball on x-axis
+position of ball on y-axis
 
 ## Acceptance Criteria
 
