@@ -2,12 +2,15 @@
 
 ## Startup Sequence
 
--describe-how-your-modules-interact-to-start
+The main function will instantiate one object of ball two instances of padddle
+and two instances of score for each player
 
 ## Movement Initiation
 
--describe-how-modules-interact-to-make-the-ball-move
+Any one of the user touches up or down button, ball starts to move.
+ball will bounce from the horizontal boundary and paddle.
 
 ## One score
 
--describe-how-the-modules-interact-to-record-scores
+ball touches vertical boundary of left side 
+player at the right side will get one point and vice versa.
