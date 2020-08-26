@@ -1,9 +1,9 @@
-# pongScore
+# pong Score
 
 ## Feature
 
-getScore() = returns the score of the player.
-incScore() = increases the score of the player.
+returns the score of the player.
+increases the score of the player.
 
 ## Acceptance Criteria
 
