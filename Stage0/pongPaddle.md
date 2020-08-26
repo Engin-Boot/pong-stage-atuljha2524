@@ -1,12 +1,12 @@
-# pongPaddle
+# pong Paddle
 
 ## Feature
 
-width = width of the paddle.
-height = height of the paddle.
-moveDown() = paddle moves down.
-moveUp() = paddle moves up.
-getPosition() = gives the position of paddle.
+width of the paddle.
+height of the paddle.
+paddle moves down.
+paddle moves up.
+gives the position of paddle.
 
 ## Acceptance Criteria
 
